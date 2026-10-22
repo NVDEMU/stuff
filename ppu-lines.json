@@ -1,0 +1,9192 @@
+{
+  "ok": true,
+  "first": 0,
+  "last": 224,
+  "lines": [
+    {
+      "line": 1,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 2,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 3,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 4,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 5,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 6,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 7,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 8,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 9,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 10,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 11,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 12,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 13,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 14,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 15,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 16,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 17,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 18,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 19,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 20,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 21,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 22,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 23,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 24,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 25,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 26,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 27,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 28,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 29,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 30,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 31,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 32,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 33,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 34,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 35,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 36,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 37,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 38,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 39,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 40,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 41,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 42,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 43,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 44,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 45,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 46,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 47,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 48,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 49,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 50,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 51,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 52,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 53,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 54,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 55,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 56,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 57,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 58,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 59,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 60,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 61,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 62,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 63,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 64,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 65,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 66,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 67,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 68,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 69,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 70,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 71,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 72,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 73,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 74,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 75,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 76,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 77,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 78,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 79,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 80,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 81,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 82,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 83,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 84,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 85,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 86,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 87,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 88,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 89,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 90,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 91,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 92,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 93,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 94,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 95,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 96,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 97,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 98,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 99,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 100,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 101,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 102,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 103,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 104,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 105,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 106,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 107,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 108,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 109,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 110,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 111,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 112,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 113,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 114,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 115,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 116,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 117,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 118,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 119,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 120,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 121,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 122,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 123,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 124,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 125,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 126,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 127,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 128,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 129,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 130,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 131,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 132,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 133,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 134,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 135,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 136,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 137,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 138,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 139,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 140,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 141,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 142,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 143,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 144,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 145,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 146,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 147,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 148,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 149,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 150,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 151,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 152,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 153,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 154,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 155,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 156,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 157,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 158,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 159,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 160,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 161,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 162,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 163,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 164,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 165,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 166,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 167,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 168,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 169,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 170,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        4,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        1,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x13",
+        "0x00"
+      ],
+      "windowed": [
+        "0x1f",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 171,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        86,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x02",
+        "0x00"
+      ],
+      "windowed": [
+        "0x00",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 172,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        86,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x02",
+        "0x00"
+      ],
+      "windowed": [
+        "0x00",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 173,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        86,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x02",
+        "0x00"
+      ],
+      "windowed": [
+        "0x00",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 174,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        86,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x02",
+        "0x00"
+      ],
+      "windowed": [
+        "0x00",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 175,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        86,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x02",
+        "0x00"
+      ],
+      "windowed": [
+        "0x00",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 176,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        86,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x02",
+        "0x00"
+      ],
+      "windowed": [
+        "0x00",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 177,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        86,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x02",
+        "0x00"
+      ],
+      "windowed": [
+        "0x00",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 178,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        86,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x02",
+        "0x00"
+      ],
+      "windowed": [
+        "0x00",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 179,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        86,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x02",
+        "0x00"
+      ],
+      "windowed": [
+        "0x00",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 180,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        86,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x02",
+        "0x00"
+      ],
+      "windowed": [
+        "0x00",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 181,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        86,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x02",
+        "0x00"
+      ],
+      "windowed": [
+        "0x00",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 182,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        86,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x02",
+        "0x00"
+      ],
+      "windowed": [
+        "0x00",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 183,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        86,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x02",
+        "0x00"
+      ],
+      "windowed": [
+        "0x00",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 184,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        86,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x02",
+        "0x00"
+      ],
+      "windowed": [
+        "0x00",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 185,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        86,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x02",
+        "0x00"
+      ],
+      "windowed": [
+        "0x00",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 186,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        86,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x02",
+        "0x00"
+      ],
+      "windowed": [
+        "0x00",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 187,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        86,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x02",
+        "0x00"
+      ],
+      "windowed": [
+        "0x00",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 188,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        86,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x02",
+        "0x00"
+      ],
+      "windowed": [
+        "0x00",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 189,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        86,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x02",
+        "0x00"
+      ],
+      "windowed": [
+        "0x00",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 190,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        86,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x02",
+        "0x00"
+      ],
+      "windowed": [
+        "0x00",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 191,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        86,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x02",
+        "0x00"
+      ],
+      "windowed": [
+        "0x00",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 192,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        86,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x02",
+        "0x00"
+      ],
+      "windowed": [
+        "0x00",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 193,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        86,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x02",
+        "0x00"
+      ],
+      "windowed": [
+        "0x00",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 194,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        86,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x02",
+        "0x00"
+      ],
+      "windowed": [
+        "0x00",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 195,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        86,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x02",
+        "0x00"
+      ],
+      "windowed": [
+        "0x00",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 196,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        86,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x02",
+        "0x00"
+      ],
+      "windowed": [
+        "0x00",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 197,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        86,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x02",
+        "0x00"
+      ],
+      "windowed": [
+        "0x00",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 198,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        86,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x02",
+        "0x00"
+      ],
+      "windowed": [
+        "0x00",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 199,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        86,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x02",
+        "0x00"
+      ],
+      "windowed": [
+        "0x00",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 200,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        86,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x02",
+        "0x00"
+      ],
+      "windowed": [
+        "0x00",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 201,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        86,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x02",
+        "0x00"
+      ],
+      "windowed": [
+        "0x00",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 202,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        86,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x02",
+        "0x00"
+      ],
+      "windowed": [
+        "0x00",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 203,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        86,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x02",
+        "0x00"
+      ],
+      "windowed": [
+        "0x00",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 204,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        86,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x02",
+        "0x00"
+      ],
+      "windowed": [
+        "0x00",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 205,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        86,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x02",
+        "0x00"
+      ],
+      "windowed": [
+        "0x00",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 206,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        86,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x02",
+        "0x00"
+      ],
+      "windowed": [
+        "0x00",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 207,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        86,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x02",
+        "0x00"
+      ],
+      "windowed": [
+        "0x00",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 208,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        86,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x02",
+        "0x00"
+      ],
+      "windowed": [
+        "0x00",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 209,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        86,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x02",
+        "0x00"
+      ],
+      "windowed": [
+        "0x00",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 210,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        86,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x02",
+        "0x00"
+      ],
+      "windowed": [
+        "0x00",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 211,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        86,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x02",
+        "0x00"
+      ],
+      "windowed": [
+        "0x00",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 212,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        86,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x02",
+        "0x00"
+      ],
+      "windowed": [
+        "0x00",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 213,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        86,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x02",
+        "0x00"
+      ],
+      "windowed": [
+        "0x00",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 214,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        86,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x02",
+        "0x00"
+      ],
+      "windowed": [
+        "0x00",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 215,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        86,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x02",
+        "0x00"
+      ],
+      "windowed": [
+        "0x00",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 216,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        86,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x02",
+        "0x00"
+      ],
+      "windowed": [
+        "0x00",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 217,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        86,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x02",
+        "0x00"
+      ],
+      "windowed": [
+        "0x00",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 218,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        86,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x02",
+        "0x00"
+      ],
+      "windowed": [
+        "0x00",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 219,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        86,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x02",
+        "0x00"
+      ],
+      "windowed": [
+        "0x00",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 220,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        86,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x02",
+        "0x00"
+      ],
+      "windowed": [
+        "0x00",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 221,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        86,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x02",
+        "0x00"
+      ],
+      "windowed": [
+        "0x00",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 222,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        86,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x02",
+        "0x00"
+      ],
+      "windowed": [
+        "0x00",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 223,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        86,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x02",
+        "0x00"
+      ],
+      "windowed": [
+        "0x00",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    },
+    {
+      "line": 224,
+      "frame": 31462,
+      "w1": [
+        0,
+        0
+      ],
+      "w2": [
+        4,
+        251
+      ],
+      "h": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "v": [
+        8,
+        86,
+        0,
+        0
+      ],
+      "windowsel": "0x000ccccc",
+      "wbgobjlog": "0x0000",
+      "enabled": [
+        "0x02",
+        "0x00"
+      ],
+      "windowed": [
+        "0x00",
+        "0x00"
+      ],
+      "cgwsel": "0x00",
+      "cgadsub": "0x00",
+      "bgmode": "0x09",
+      "mode": 1,
+      "drawn": true,
+      "drawn_mode": 1,
+      "renderer": "legacy"
+    }
+  ],
+  "emitted": 224
+}

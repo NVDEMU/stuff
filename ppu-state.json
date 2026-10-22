@@ -1,0 +1,117 @@
+{
+  "inidisp": "0x0f",
+  "bgmode": 1,
+  "mosaic": "0x00",
+  "obsel": "0x03",
+  "setini": "0x00",
+  "bgXsc": [
+    "0x49",
+    "0x58",
+    "0x50",
+    "0x00"
+  ],
+  "bgTileAdr": "0x0450",
+  "hScroll": [
+    8,
+    0,
+    0,
+    0
+  ],
+  "vScroll": [
+    8,
+    86,
+    0,
+    0
+  ],
+  "screenEnabled": [
+    "0x02",
+    "0x00"
+  ],
+  "screenWindowed": [
+    "0x00",
+    "0x00"
+  ],
+  "windowsel": "0x000ccccc",
+  "wbgobjlog": "0x0000",
+  "cgadsub": "0x00",
+  "cgwsel": "0x00",
+  "fixedColor": "0x0000",
+  "vramPointer": "0x6140",
+  "vramIncrement": 1,
+  "vramRemapMode": 0,
+  "cgramPointer": "0x82",
+  "window1left": 0,
+  "window1right": 0,
+  "window2left": 4,
+  "window2right": 251,
+  "widescreen": {
+    "budget": 0,
+    "left": 0,
+    "right": 0,
+    "bottom": 0,
+    "layerWiden": "0x00",
+    "layerClamp": "0x00",
+    "layerMirror": "0x00",
+    "layerRepeat": "0x00",
+    "windowExpandLayers": "0x00",
+    "windowExpandWindows": "0x00",
+    "worldBands": [
+      {
+        "slot": 0,
+        "y0": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "y1": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "left": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "right": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "slot": 1,
+        "y0": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "y1": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "left": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "right": [
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "elasticBands": []
+  },
+  "evenFrame": false
+}
